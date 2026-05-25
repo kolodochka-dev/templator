@@ -1,0 +1,18 @@
+{
+    "name": "lindencms/templator",
+    "description": "LindenCMS Templator - A native PHP component system that lets you build reusable HTML components with pure PHP and HEREDOC strings.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LindenCMS\\Templator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kolodochka Alexey"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
